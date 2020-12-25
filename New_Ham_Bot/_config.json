@@ -1,0 +1,10 @@
+{
+	"token": "[Your Discord Bot Token]",
+	"channel": "[Channel ID for sorting passwords to be entered into",
+	"public": "[Case sensitive string, public password for anyone to use]",
+	"private": "[Case sensitive string, private passwords used by select users]",
+	"interimRole": "[Role ID for people to be sorted out of]",
+	"publicRole": "[Role ID that public password sorts into]",
+	"privateRole": "[Role ID that private password sorts into]",
+	"adminChannel": "[Channel to be used for voice channel muting capabilities]"
+}
